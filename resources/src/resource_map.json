@@ -1,0 +1,16 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/wemo_bg.png"
+        },
+        {
+            "defName": "MENU_ICON",
+            "type": "png",
+            "file": "images/icon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "VERSION"
+}
